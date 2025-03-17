@@ -7,13 +7,12 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 
 1. [ Probá la aplicación](https://christiangarriazo.github.io/amigo-invisible/)    
 2. [ Funcionamiento](#️-funcionamiento)  
-4. [ Tecnologías utilizadas](#️-tecnologías-utilizadas)  
-5. [ Instalación y ejecución](#-instalación-y-ejecución)  
-6. [ Requisitos](#-requisitos)   
+3. [ Tecnologías utilizadas](#️-tecnologías-utilizadas)  
+4. [ Instalación y ejecución](#-instalación-y-ejecución)    
 
 ## Funcionamiento
 
-- **Agregar nombres**: Se ingresa un nombre con el boton **"Adicionar"** y estos se almacena en una lista visible.
+- **Agregar nombres**: Se ingresa un nombre con el boton **"Adicionar"** y estos nombres se almacenan en una lista visible.
 - **Validación de entrada**: Si el campo de texto está vacío, se mostrará una alerta solicitando un nombre válido.
 - **Sortar Amigo**: Se seleccionara aleatoriamente un nombre de la lista y se mostrara en pantalla.
 - **Reiniciar sorteo**: Limpia la lista y permite el ingreso de nuevos nombres.
